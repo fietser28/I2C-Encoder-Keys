@@ -8,6 +8,10 @@ This is simple design to connect a rotary encoder with pushbutton and 4 switches
 The board provides pull up resistors for SCL, SDA and the !RESET pin. For each of them there also is a jumper to disable them.
 
 ![alt Raytraced front of PCB with components](images/PCB%20render%20v1.jpg)
+NOTE: The rendering above has an encoder with round shaft, the knob is for an encoder with a D shaped shaft.
+
+![alt Raytraced case with knob](images/Case-w-Top.png)
+
 
 This board can be daisy chained. You just have to make sure each board uses a different addres by changing the jumpers A0,A1 and/or A2. Make sure you use the opendrain configuration of the interrupt pin if you want to use interrupts in this case.
 
