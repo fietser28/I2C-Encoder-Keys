@@ -5,6 +5,8 @@
 
 This is simple design to connect a rotary encoder with pushbutton and 4 switches to an MCU using I2C. The design uses the common MCP23008 chip. The BOM is kept simple with as many common parts as possible. The encoder and switches have a small RC network in place for basic debouncing (you still need to handle this also in software).
 
+The board breaks out 3V3 power input, GND, SCL, SDA, Interrupt and !Reset.
+
 The board provides pull up resistors for SCL, SDA and the !RESET pin. For each of them there also is a jumper to disable them.
 
 ![alt Raytraced front of PCB with components](images/PCB%20render%20v1.jpg)
