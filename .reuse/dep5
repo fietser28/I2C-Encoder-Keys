@@ -1,0 +1,31 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: I2C-Encoder-Keys
+Upstream-Contact: Jan Nieuwstad <jan.sources@nieuwstad.net>
+Source: https://github.com/fietser28/I2C-Encoder-Keys
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: 3D/*
+Copyright: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+License: CERN-OHL-W-2.0
+
+Files: I2C-Encoder-Keys/*
+Copyright: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+License: CERN-OHL-W-2.0
+
+Files: BOM/*
+Copyright: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+License: CERN-OHL-W-2.0
+
+Files: images/*
+Copyright: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+License: CC-BY-SA-4.0
+
+Files: *.pdf
+Copyright: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+License: CERN-OHL-W-2.0
+

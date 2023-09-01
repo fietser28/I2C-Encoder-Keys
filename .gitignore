@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 .DS_Store
 I2C-Encoder-Keys/_autosave-I2C-Encoder-Keys.kicad_sch
 I2C-Encoder-Keys/#auto_saved_files#

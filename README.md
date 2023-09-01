@@ -1,3 +1,7 @@
+<!--
+  SPDX-FileCopyrightText: 2023 Jan Nieuwstad <jan.sources@nieuwstad.net>
+  SPDX-License-Identifier: CERN-OHL-W-2.0
+-->
 
 # Introduction
 
@@ -27,4 +31,10 @@ This board can be daisy chained. You just have to make sure each board uses a di
 
 # License 
 
-See LICENSE.txt
+This hardware design is under the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](LICENSES/CERN-OHL-W-4.0.txt)
+Illustrations are under the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](LICENSES/CC-BY-SA-4.0.txt)
+
+This project contains 3D models from others:
+- [JST PH connector]<https://grabcad.com/library/jst-ph-2-0mm-connector-pack-through-hole-smt-ds1066-1> from Sig Elso <https://grabcad.com/sig.elso-1>
+- [Rotary encoder]<https://grabcad.com/library/ec11-rotary-encoder-with-switch-1> from Anthony Berkow <https://grabcad.com/anthony.berkow-1>
+
